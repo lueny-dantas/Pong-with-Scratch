@@ -1,11 +1,16 @@
 # Pong Scratch
-Projeto de jogo desenvolvidocomo aprendizado da utilização da lógica de programação do curso Alura.
+Projeto de jogo desenvolvido como aprendizado da utilização da lógica de programação do curso Alura.
 
-# Tecnologias utilizadas:
- - Scratch
+# 🔨 Funcionalidades do projeto
+Joguinho de ping-pong no qual se utiliza as setas para cima e para baixo para movimentar a raquete e evitar que o oponente pontue.
  
-# Ilustração
- ![Pong Scratch](https://user-images.githubusercontent.com/98789294/197921858-11ca225b-a488-4572-910c-68f7992c894b.PNG)
+# ✨ Ilustração
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/98789294/210686061-fe75a2c0-1f80-4f31-b0e6-2022778a9bff.gif)
 
-https://user-images.githubusercontent.com/98789294/197921818-d77ea860-875e-418e-813a-a916fe44e5fe.mp4
+# ✔️ Técnicas e tecnologias utilizadas
+- Scratch
+
+# 📂Acesso ao projeto
+Você pode acessar o código fonte do projeto inicial [aqui](https://scratch.mit.edu/projects/750590091/)
+
 
